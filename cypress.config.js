@@ -11,6 +11,6 @@ module.exports = defineConfig({
     specPattern: "cypress/e2e/*.feature",
   },
 });
-//two comments
+
 //npx cypress open 
 //node .\cypress\cucumberReport.js
