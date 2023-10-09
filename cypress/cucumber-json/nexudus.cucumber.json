@@ -22,7 +22,7 @@
             "name": "User access nexudus website",
             "result": {
               "status": "passed",
-              "duration": 24834000000
+              "duration": 16455000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "User confirm the login page is presented",
             "result": {
               "status": "passed",
-              "duration": 90000000
+              "duration": 104000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "User enter userName",
             "result": {
               "status": "passed",
-              "duration": 1328000000
+              "duration": 1426000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "User enter password",
             "result": {
               "status": "passed",
-              "duration": 1065000000
+              "duration": 1058000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "User click submit button",
             "result": {
               "status": "passed",
-              "duration": 495000000
+              "duration": 544000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "User Confirm login succeeds and you are presented with the dashboard home page",
             "result": {
               "status": "passed",
-              "duration": 7927000000
+              "duration": 6471000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "User click add product",
             "result": {
               "status": "passed",
-              "duration": 10654000000
+              "duration": 13851000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "User click manual entry",
             "result": {
               "status": "passed",
-              "duration": 5379000000
+              "duration": 7359000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "User fills form values",
             "result": {
               "status": "passed",
-              "duration": 11598000000
+              "duration": 10422000000
             }
           },
           {
@@ -112,7 +112,7 @@
             "name": "User search by the newly created product",
             "result": {
               "status": "passed",
-              "duration": 3766000000
+              "duration": 5163000000
             }
           },
           {
@@ -122,7 +122,7 @@
             "name": "User select the first item in the list",
             "result": {
               "status": "passed",
-              "duration": 2003000000
+              "duration": 2362000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "User click record then delete",
             "result": {
               "status": "passed",
-              "duration": 6438000000
+              "duration": 9744000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "User confirm the modal dialog clicking on Yes do it",
             "result": {
               "status": "passed",
-              "duration": 1487000000
+              "duration": 3229000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "User confirm the product is no longer available",
             "result": {
               "status": "passed",
-              "duration": 3196000000
+              "duration": 5277000000
             }
           }
         ]
@@ -172,7 +172,7 @@
             "name": "User access nexudus website",
             "result": {
               "status": "passed",
-              "duration": 13729000000
+              "duration": 17158000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "User confirm the login page is presented",
             "result": {
               "status": "passed",
-              "duration": 67000000
+              "duration": 86000000
             }
           },
           {
@@ -192,7 +192,7 @@
             "name": "User enter \"bad@example.com\" userName",
             "result": {
               "status": "passed",
-              "duration": 738000000
+              "duration": 885000000
             }
           },
           {
@@ -202,7 +202,7 @@
             "name": "User enter \"badpassword\" password",
             "result": {
               "status": "passed",
-              "duration": 785000000
+              "duration": 670000000
             }
           },
           {
@@ -212,7 +212,7 @@
             "name": "User click submitBtn",
             "result": {
               "status": "passed",
-              "duration": 321000000
+              "duration": 436000000
             }
           },
           {
@@ -222,7 +222,7 @@
             "name": "User confirm a clear error message is presented on screen",
             "result": {
               "status": "passed",
-              "duration": 30000000
+              "duration": 42000000
             }
           }
         ]
