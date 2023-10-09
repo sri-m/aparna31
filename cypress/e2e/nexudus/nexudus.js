@@ -57,6 +57,7 @@ When("User confirm the modal dialog clicking on Yes do it", () => {
 
 When("User confirm the product is no longer available", () => {
     NexudusPage.noRecord();
+    NexudusPage.noLongerAvail();
 })
 
 //invalid methods here.

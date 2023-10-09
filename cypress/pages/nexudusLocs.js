@@ -67,4 +67,8 @@ export class NexudusLocs{
  static invalidVal(){
     return "The email or password is incorrect.";
  }
+ static noLongerAvailable(){
+    cy.wait(1000)
+    return cy.contains('No items found')
+ }
 }

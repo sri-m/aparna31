@@ -72,4 +72,8 @@ export class NexudusPage{
         NexudusLocs.invalidLoc().contains(NexudusLocs.invalidVal());
     }
 
+    static noLongerAvail(){
+        NexudusLocs.noLongerAvailable()
+    }
+
 }
