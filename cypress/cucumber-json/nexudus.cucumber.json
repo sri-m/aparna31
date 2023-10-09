@@ -1,0 +1,232 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Nexudus application automation testing",
+    "line": 1,
+    "id": "nexudus-application-automation-testing",
+    "tags": [],
+    "uri": "nexudus.feature",
+    "elements": [
+      {
+        "id": "nexudus-application-automation-testing;nexudus-login-with-correct-credentials",
+        "keyword": "Scenario",
+        "line": 7,
+        "name": "Nexudus logIn with correct credentials",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User access nexudus website",
+            "result": {
+              "status": "passed",
+              "duration": 12404000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User confirm the login page is presented",
+            "result": {
+              "status": "passed",
+              "duration": 107000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "User enter userName",
+            "result": {
+              "status": "passed",
+              "duration": 908000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "User enter password",
+            "result": {
+              "status": "passed",
+              "duration": 678000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "User click submit button",
+            "result": {
+              "status": "passed",
+              "duration": 336000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "User Confirm login succeeds and you are presented with the dashboard home page",
+            "result": {
+              "status": "passed",
+              "duration": 7534000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 12,
+            "name": "User click add product",
+            "result": {
+              "status": "passed",
+              "duration": 7494000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "User click manual entry",
+            "result": {
+              "status": "passed",
+              "duration": 6983000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 14,
+            "name": "User fills form values",
+            "result": {
+              "status": "passed",
+              "duration": 12535000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 15,
+            "name": "User search by the newly created product",
+            "result": {
+              "status": "passed",
+              "duration": 3763000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 16,
+            "name": "User select the first item in the list",
+            "result": {
+              "status": "passed",
+              "duration": 1919000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "User click record then delete",
+            "result": {
+              "status": "passed",
+              "duration": 7553000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "User confirm the modal dialog clicking on Yes do it",
+            "result": {
+              "status": "passed",
+              "duration": 2198000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 19,
+            "name": "User confirm the product is no longer available",
+            "result": {
+              "status": "passed",
+              "duration": 246000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "nexudus-application-automation-testing;nexudus-login-with-invalid-credentials",
+        "keyword": "Scenario",
+        "line": 21,
+        "name": "Nexudus logIn with invalid credentials",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "User access nexudus website",
+            "result": {
+              "status": "passed",
+              "duration": 14763000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "User confirm the login page is presented",
+            "result": {
+              "status": "passed",
+              "duration": 68000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 22,
+            "name": "User enter \"bad@example.com\" userName",
+            "result": {
+              "status": "passed",
+              "duration": 603000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 23,
+            "name": "User enter \"badpassword\" password",
+            "result": {
+              "status": "passed",
+              "duration": 606000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 24,
+            "name": "User click submitBtn",
+            "result": {
+              "status": "passed",
+              "duration": 330000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 25,
+            "name": "User confirm a clear error message is presented on screen",
+            "result": {
+              "status": "passed",
+              "duration": 25000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
